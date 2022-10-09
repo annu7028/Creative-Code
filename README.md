@@ -3,6 +3,11 @@ ATLS 5660: Creative Code Data Visualization Assignment
 
 In this assignment I explored the price, rating, and diverstiy of different makeup brands with the concentrated focus of their foundations. Rather than an individual chart, I decided to treat this assignment like a data exploration study and therefore created multiple visualizations. 
 
+<b>Notes:</b> 
+<ul>
+  <li>Not all code is in this ReadMe file. To see full code file please see Python Notebook: [INSERT PATH LINK] </li>
+  <li> This file displays all static visualizations. To see interactive visualizations, download and run the python notebook.</li>
+</ul>
 
 <b>Questions:</b> 
 <ul>
