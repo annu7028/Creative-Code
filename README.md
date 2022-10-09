@@ -5,7 +5,7 @@ In this assignment I explored the price, rating, and diverstiy of different make
 
 <b>Notes:</b> 
 <ul>
-  <li>Not all code is in this ReadMe file. To see full code file please see Python Notebook: [INSERT PATH LINK] </li>
+  <li>Not all code is in this ReadMe file. To see full code file please see <a href=https://github.com/annu7028/Creative-Code/blob/annu7028-dataVizAssignment/dataViz.ipynb>Python Notebook</a> </li>
   <li> This file displays all static visualizations. To see interactive visualizations, download and run the python notebook.</li>
 </ul>
 
