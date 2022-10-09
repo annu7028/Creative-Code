@@ -129,6 +129,7 @@ alt.Chart(df).mark_bar().encode(
 ![Viz 10](https://github.com/annu7028/Creative-Code/blob/annu7028-dataVizAssignment/Images/visualization-10.png?raw=true)
 
 <i>Additional vizualizations that explore this idea:</i>
+<br>
 ![Viz 11](https://github.com/annu7028/Creative-Code/blob/annu7028-dataVizAssignment/Images/visualization-11.png?raw=true)
 ![Viz 12](https://github.com/annu7028/Creative-Code/blob/annu7028-dataVizAssignment/Images/visualization-12.png?raw=true)
 
